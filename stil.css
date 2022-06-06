@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: green;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";	
+	font-size: 20px;
+	line-height: 50px;
+	background-color: antiquewhite;
+	padding: 10px;
+}
+nav {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: cadetblue;
+}
+h1, h2, h3 {
+	font-family: Verdana, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: orange;
+}
+ul{
+	color: rgb(67, 178, 143);
+}
+body{
+	background-image: url(slike/pozadina.jpg)
+}
